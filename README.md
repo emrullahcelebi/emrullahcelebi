@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![snake gif](https://github.com/emrullahcelebi/emrullahcelebi/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github-readme-stats.vercel.app/api?username=emrullahcelebi&count_private=true"  >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrullahcelebi"  align="right">
+
